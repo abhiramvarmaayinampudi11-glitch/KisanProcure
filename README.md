@@ -976,38 +976,23 @@ The main target users are:
 
 ---
 
-# 📄 License
-
-This project is developed for educational, prototype and SIH purposes.
-
-Add the appropriate open-source or institutional license before public deployment.
-
----
 
 # 👨‍💻 Contributors
 
-Add your team members here:
 
 ```text
-1. Team Member 1 – Name
-2. Team Member 2 – Name
-3. Team Member 3 – Name
-4. Team Member 4 – Name
+1. Team Member 1 – Ayinampudi Abhiram Varma
+2. Team Member 2 – Gollapalli Srinivas  
+3. Team Member 3 – Gundumogula Manoj
+4. Team Member 4 – Gangavarapu Sashank
+5. Team Member 5 – Ginkala Spandana
+6. Team Member 6 – Nammi Vedha Sri
 ```
+# links
+PROTOTYPE DEMO : https://kisanprocure-eosin.vercel.app/
+PROTOTYPE EXPLANATION : 
+PPT EXPLANATION : 
 
----
-
-# 📞 Contact
-
-For project-related questions, contact:
-
-```text
-Project Name: KisanProcure
-Project Type: Smart Farmer Procurement Management System
-Purpose: SIH / Academic Project
-```
-
----
 
 ## 🌾 KisanProcure
 
