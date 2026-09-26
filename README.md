@@ -735,67 +735,6 @@ KisanProcure/
 
 ---
 
-# ⚙️ Installation
-
-## 1. Clone the repository
-
-```bash
-git clone <YOUR_REPOSITORY_URL>
-```
-
-## 2. Open the project
-
-```bash
-cd KisanProcure
-```
-
-## 3. Install dependencies
-
-For frontend:
-
-```bash
-cd frontend
-npm install
-```
-
-For backend:
-
-```bash
-cd ../backend
-npm install
-```
-
-## 4. Configure environment variables
-
-Create a `.env` file.
-
-Example:
-
-```env
-PORT=5000
-DATABASE_URL=your_database_url
-JWT_SECRET=your_secret_key
-```
-
-Do not upload the real `.env` file or passwords/secrets to GitHub.
-
-## 5. Start backend
-
-```bash
-npm run dev
-```
-
-## 6. Start frontend
-
-Open another terminal:
-
-```bash
-cd frontend
-npm run dev
-```
-
-Open the displayed local URL in your browser.
-
 ---
 
 # 🧪 Testing
@@ -989,9 +928,11 @@ The main target users are:
 6. Team Member 6 – Nammi Vedha Sri
 ```
 # links
-PROTOTYPE DEMO : https://kisanprocure-eosin.vercel.app/
-PROTOTYPE EXPLANATION : 
-PPT EXPLANATION : 
+* PROTOTYPE DEMO : https://kisanprocure-eosin.vercel.app/ 
+
+* PROTOTYPE EXPLANATION : https://youtu.be/HZ8PD5_iC28?si=HVv_-R0YxxuEjSxh
+
+* PPT EXPLANATION : https://youtu.be/VH-s589_ajI?si=j4qZJqYVw_EB1BgR
 
 
 ## 🌾 KisanProcure
